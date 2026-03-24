@@ -48,7 +48,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![mjh-shikder's Stats](https://github-readme-stats.vercel.app/api?username=mjh-shikder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjh-shikder&layout=compact&theme=default) |
+| ![mjh-shikder's Stats](https://github-readme-stats.vercel.app/api?username=mjh-shikder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjh-shikder&layout=compact&theme=dark) |
 
 ---
 
