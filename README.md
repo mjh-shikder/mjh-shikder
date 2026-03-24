@@ -1,5 +1,5 @@
 
-![mjh-shikder's Stats](https://github-readme-stats.vercel.app/api?username=mjh-shikder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 # Hi 👋, I'm Md Jubair Hossain  
 ### 🔭 I build things with JavaScript, React, and Node.js
@@ -46,7 +46,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![mjh-shikder's Stats](https://github-readme-stats.vercel.app/api?username=mjh-shikder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjh-shikder&layout=compact&theme=default) |
 
 ---
 
