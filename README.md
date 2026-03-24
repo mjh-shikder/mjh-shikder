@@ -1,8 +1,10 @@
 
 
 
-# Hi 👋, I'm Md Jubair Hossain  
-### 🔭 I build things with JavaScript, React, and Node.js
+### Hi 👋, I'm 
+
+# Md Jubair Hossain  
+### 🔭 I build Web Applications with JavaScript, React, and Next.js
 
 ---
 
