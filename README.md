@@ -1,56 +1,44 @@
+# Hi, I'm Md Jubair Hossain 👋
 
-<img src="./Banner.png" alt="Hello world">
+### Full-stack JavaScript Developer | React, Next.js, Node.js & TypeScript
 
-### Hi 👋, I'm 
+I build web applications with a focus on useful features, clear user flows, and maintainable code. My recent work includes a full-stack property rental platform and an in-progress healthcare API.
 
-# Md Jubair Hossain  
-### 🔭 I build Web Applications with JavaScript, React, and Next.js
+## What I work with
 
----
+**Frontend:** React, Next.js App Router, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Data & services:** PostgreSQL, Prisma ORM, MongoDB, JWT authentication, Stripe Checkout  
+**Tools:** Git, GitHub, Postman, Biome
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## Featured projects
 
----
+### [RentNest — Property Rental Platform](https://github.com/mjh-shikder/A05-Level-2-RentNest_Frontend)
 
-## 🛠️ Tech Stack  
+A full-stack rental marketplace for tenants, landlords, and administrators.
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+- Browse, search, filter, and sort property listings
+- Role-based dashboards for tenant, landlord, and admin workflows
+- Rental requests, landlord decisions, payment history, and reviews
+- Stripe Checkout integration for approved rental requests
+- Next.js App Router frontend connected to an Express and Prisma API
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+[Live application](https://rentnest.mjhshikder.com/) · [Frontend source](https://github.com/mjh-shikder/A05-Level-2-RentNest_Frontend) · [Backend source](https://github.com/mjh-shikder/A04-Level-2-Rent_Nest_Backend) · [Project walkthrough](https://www.loom.com/share/5c66e15a92dd4d60bc4574e0dfd306dc)
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Express.js, Prisma, PostgreSQL, Stripe
 
----
+### [PH Healthcare System — Backend in Progress](https://github.com/mjh-shikder/PH_Health_Care)
 
-## 🌐 Connect With Me  
+A REST API foundation for a doctor appointment platform. The current implementation focuses on patient registration, login, and profile retrieval; appointment booking and other planned product features are still in development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mjh-shikder)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mjh_shikder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://mjhshikder.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mjh.dev.bd@gmail.com)
+**Stack:** Node.js, Express 5, TypeScript, Prisma, PostgreSQL, JWT
 
----
+## Currently learning
 
-## 📊 GitHub Stats  
+I’m continuing to deepen my skills in backend architecture and modern full-stack development, including GraphQL and Docker.
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![mjh-shikder's Stats](https://github-readme-stats.vercel.app/api?username=mjh-shikder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjh-shikder&layout=compact&theme=dark) |
+## Get in touch
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=mjh-shikder&style=flat-square)
-
+- [Portfolio](https://mjhshikder.com/)
+- [LinkedIn](https://linkedin.com/in/mjh-shikder)
+- [Email](mailto:mjh.dev.bd@gmail.com)
